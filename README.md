@@ -1,8 +1,6 @@
 ###   Olá! Eu sou a zjooy
 
 - 🌱 estou aprendendo JavaScript
-- 🤔 Aceito ajuda sobre desenvolvimento web...
-- 😄 Pronouns: Ela/Dela
 - ⚡ Tenho 17 anos e comecei a estudar desenvolvimento web em 2021.
 
 <div>
