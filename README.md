@@ -1,7 +1,6 @@
 ###   Olá! Eu sou a zjooy
 
 - 🌱 estou aprendendo JavaScript
-- ⚡ Tenho 17 anos e comecei a estudar desenvolvimento web em 2021.
 
 <div>
   <a href="https://github.com/zjooy">
