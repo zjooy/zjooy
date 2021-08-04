@@ -12,7 +12,8 @@
   <img align="center" alt="zjooy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="zjooy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="zjooy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+  <img aling="right" alt="zjooy" src="https://i.picasion.com/pic91/aa30c5f9e0355f3af658997edbca257a.gif">
+</div>
   
   ##
   
