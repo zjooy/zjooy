@@ -1,6 +1,6 @@
 ###   Olá! Eu sou a zjooy
 
-- 🌱 estou aprendendo JavaScript
+- 🌱 Estou aprendendo React
 - Faço curso de Técnico de Informática
 
 <div>
