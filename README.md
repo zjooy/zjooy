@@ -1,6 +1,6 @@
-###   Olá! Eu sou a zjooy
+###   Olá! Eu sou a Joyce :)
 
-- 🌱 Estou aprendendo React
+- Estou aprendendo React
 - Faço curso de Técnico de Informática
 
 <div>
