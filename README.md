@@ -1,7 +1,7 @@
 ###   Olá! Eu sou a Joyce :)
 
 - Estou aprendendo React
-- Faço curso de Técnico de Informática
+- Faço curso Técnico de Informática
 
 <div>
   <a href="https://github.com/zjooy">
