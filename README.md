@@ -1,6 +1,6 @@
 ###   Olá! Eu sou a Joyce :)
 
-- Estou aprendendo React
+- Estou aprendendo JAVA
 - Faço curso Técnico de Informática
 
 <div>
