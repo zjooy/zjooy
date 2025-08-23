@@ -1,6 +1,6 @@
 ###   Olá! Eu sou a Joyce :)
 
-- Estou aprendendo C#
+- Sou Desenvolvedora .Net
 
 <div>
 <img heigth:"180em" src="https://github-readme-stats.vercel.app/api?username=zjooy&show_icons=true&theme=dracula" />
