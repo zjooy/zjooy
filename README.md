@@ -6,9 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5A189A,50:9D4EDD,100:E0AAFF&height=200&section=header&text=Joyce%20Pereira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenheira%20de%20Software%20%40%20Ita%C3%BA&descAlignY=55&descSize=20" alt="header"/>
 
-<p align="center">
-  <img src="assets/ascii-card.svg" alt="Joyce Pereira - ASCII art"/>
-</p>
+
 
 ### 💜 Sobre mim
 
@@ -31,8 +29,6 @@
 
 ### 🗄️ Dados & Observabilidade
 [![Skills](https://skillicons.dev/icons?i=grafana,prometheus,mongodb,mysql,postman)](https://skillicons.dev)
-<img src="https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
-
 
 <br/>
 
